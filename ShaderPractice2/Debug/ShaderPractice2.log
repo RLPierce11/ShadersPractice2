@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rlpie\OneDrive\Documents\Visual Studio 2019\Projects\ShaderPractice2\ShaderPractice2\main.cpp(7,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  ShaderPractice2.vcxproj -> C:\Users\rlpie\OneDrive\Documents\Visual Studio 2019\Projects\ShaderPractice2\Debug\ShaderPractice2.exe
